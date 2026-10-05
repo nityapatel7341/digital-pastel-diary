@@ -11,7 +11,7 @@
 
 ## Portfolio architecture
 - Keep the portfolio at the TanStack index route; use Bootstrap grid CSS for responsive columns and the shared Button for actions, preserving the supported React runtime.
-- Append clearly labeled revisited diary entries with IntersectionObserver; reuse only confirmed biographical facts rather than inventing new events.
+- Render a fixed set of portfolio sections ending at the footer; avoid scroll-triggered content insertion to keep navigation and page length stable.
 - Keep all portfolio visual roles in global CSS tokens; use generated camera imagery as decorative still-life, never as a personal photo.
 
 - Keep contact client-only as a downloadable unsent draft until a real delivery destination is supplied; never imply successful delivery.

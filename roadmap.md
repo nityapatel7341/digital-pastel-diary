@@ -3,4 +3,5 @@
 - [x] Verify scrolling, links, and narrow-screen layout.
 - [x] Apply the uploaded Y2K / Windows XP redesign with profile, skills, projects, education, achievements, gallery, and contact sections.
 - [x] Verify the redesigned portfolio and message-draft flow on desktop and mobile.
+- [ ] Remove infinite scrolling and verify the page has a stable end.
 - [ ] Check security and request publication; share the returned link.
