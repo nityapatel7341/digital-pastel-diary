@@ -4,4 +4,4 @@
 - [x] Apply the uploaded Y2K / Windows XP redesign with profile, skills, projects, education, achievements, gallery, and contact sections.
 - [x] Verify the redesigned portfolio and message-draft flow on desktop and mobile.
 - [x] Remove infinite scrolling and verify the page has a stable end.
-- [ ] Check security and request publication; share the returned link.
+- [x] Check security and request publication; share https://digital-pastel-diary.lovable.app (deployment completion unverified).
