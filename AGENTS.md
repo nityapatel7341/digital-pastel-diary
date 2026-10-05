@@ -8,3 +8,8 @@
 > Commits you push to the connected branch sync back to Lovable and show up in
 > the editor, so keep the branch in a working state.
 <!-- LOVABLE:END -->
+
+## Portfolio architecture
+- Keep the portfolio at the TanStack index route; use Bootstrap grid CSS for responsive columns and the shared Button for actions, preserving the supported React runtime.
+- Append clearly labeled revisited diary entries with IntersectionObserver; reuse only confirmed biographical facts rather than inventing new events.
+- Keep all portfolio visual roles in global CSS tokens; use generated camera imagery as decorative still-life, never as a personal photo.
